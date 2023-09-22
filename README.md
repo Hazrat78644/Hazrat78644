@@ -1,5 +1,8 @@
-👨‍💻 Frontend Engineer | Crafting Experiences with Code 🚀
-🌟 Passionate about creating responsive and user-friendly web interfaces.
-🎨 Transforming designs into pixel-perfect, interactive websites.
-💡 Constantly exploring new frontend technologies and best practices.
-🌐 Let's build the web together, one line of code at a time!
+
+👨‍💻 Highly motivated Front-End Developer in Noida, Uttar Pradesh, with a BCA degree from IEC University, Solan.
+
+🚀 Proficient in HTML5, CSS3, JavaScript (ES6+), React.js, and Bootstrap, I'm dedicated to crafting immersive user experiences.
+
+💡 With a strong foundation in Front-end Development, I prioritize responsive web design and adhere to UI/UX principles.
+
+🔍 My adaptability and problem-solving skills shine through in every project, ensuring exceptional digital solutions.
